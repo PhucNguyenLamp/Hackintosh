@@ -11,7 +11,7 @@ Insert your own Platforminfo in config.plist
 
 | Specifications      | Detail        |
 | ------------- |:-------------:|
-| Computer model    | GF63 Thin 9RCX 646VN 15.6' (GTX 1050Ti) |
+| Computer model    | GF63 Thin 9RCX 646VN 15.6" (GTX 1050Ti) |
 | Processor      |  Intel® Core™ i5-9300H @2.40Ghz      |
 | Memory | 2x8 GB DDR4 2666 Mhz     |
 |    Disk   |    SSD Crucial MX500 3D NAND Sata III 500GB   |
