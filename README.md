@@ -57,7 +57,12 @@ Insert your own Platforminfo in config.plist
 - [ ] Nvidia RTX 1050Ti 6GB (Switchable Graphics is not supported by Hackintosh)
 - [ ] Etc
 
-## Template credits from the chads i found on githubs
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/5f271fd5-20c9-4042-80cc-86117bdb4fe5)
+
+
+# Template credits from the chads i found on githubs
 - https://github.com/rahulhingve/Hackintosh-MSI-GF63-Thin-9SCXR
 - https://github.com/mykimy/MSI-GF63-9RCX_OpenCore-Hackintosh
 - https://github.com/X1er0/MSI-GF63-THIN-10SC-OPENCORE-HACKINTOSH
