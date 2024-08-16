@@ -41,8 +41,9 @@ Insert your own Platforminfo in config.plist
 
 # Works
 
-- [x] All USB Ports
+- [x] All USB Ports (External mouse and keyboard usable)
 - [x] Wifi
+- [x] Ethernet
 
 # Not Works - Yet
 
