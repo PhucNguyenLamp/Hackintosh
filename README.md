@@ -55,7 +55,7 @@ Insert your own Platforminfo in config.plist
 - [ ] Battery status
 - [ ] AirDrop & Facetime (Need Native WiFi Card)
 - [ ] Fan Speed (Common problem MSI Notebook)
-- [ ] Nvidia RTX 1050Ti 6GB (Switchable Graphics is not supported by Hackintosh)
+- [ ] Nvidia RTX 1050Ti 4GB (Switchable Graphics is not supported by Hackintosh)
 - [ ] Etc
 
 # Screenshot
