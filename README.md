@@ -21,8 +21,6 @@ Insert your own Platforminfo in config.plist
 | Wireless | Intel® Wireless-AC 9560 160MHz  |
 | Ethernet | Realtek PCIe GBE Family Controller  |
 
-
-
 # Change BIOS settings
 
 - Show hidden settings with: CTRL Right + SHIFT Right + ALT Left + F2
@@ -41,26 +39,29 @@ Insert your own Platforminfo in config.plist
 
 # Works
 
-- [x] All USB Ports (External mouse and keyboard usable)
+- [x] All USB Ports
 - [x] Wifi
 - [x] Ethernet
+- [x] Keyboard
+- [x] Trackpad
+- [x] Bluetooth
+- [x] Audio
+- [x] Battery status
 
 # Not Works - Yet
 
-- [ ] Keyboard
-- [ ] Trackpad
-- [ ] Bluetooth
 - [ ] HDMI Port
-- [ ] Audio
-- [ ] Battery status
-- [ ] AirDrop & Facetime (Need Native WiFi Card)
+- [ ] Boot without USB (IDK why it won't work)
 - [ ] Fan Speed (Common problem MSI Notebook)
-- [ ] Nvidia RTX 1050Ti 4GB (Switchable Graphics is not supported by Hackintosh)
-- [ ] Etc
+
+# Never Gonna Work
+
+- [ ] AirDrop & Facetime (Need Native WiFi Card)
+- [ ] Nvidia RTX 1050Ti 4GB (Switchable Graphics is not supported by newer Hackintosh)
 
 # Screenshot
 
-![image](https://github.com/user-attachments/assets/5f271fd5-20c9-4042-80cc-86117bdb4fe5)
+![ảnh](https://github.com/user-attachments/assets/ea019e5d-90c0-4de1-8834-a882c5d2d0db)
 
 
 # Template credits from the chads i found on githubs
