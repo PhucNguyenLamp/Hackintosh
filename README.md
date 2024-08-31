@@ -47,12 +47,13 @@ Insert your own Platforminfo in config.plist
 - [x] Bluetooth
 - [x] Audio
 - [x] Battery status
+- [x] HDMI Port
+- [x] Boot without USB (Use EasyUEFI for Windows)
 
 # Not Works - Yet
 
-- [ ] HDMI Port
-- [ ] Boot without USB (IDK why it won't work)
 - [ ] Fan Speed (Common problem MSI Notebook)
+- [ ] iMessage
 
 # Never Gonna Work
 
